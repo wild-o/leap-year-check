@@ -5,7 +5,7 @@ public class Track {
 
 	public static void main(String[] args) {
 			
-			Scanner reader = new Scanner(System.in);
+		Scanner reader = new Scanner(System.in);
 
 	        System.out.println("Type a year: ");
 	        int year = Integer.parseInt(reader.nextLine());
